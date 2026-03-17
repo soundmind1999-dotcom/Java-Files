@@ -1,0 +1,17 @@
+public class QueensCollege {
+
+    public static void main(String[] args) {
+
+    for (int count = 0; count < 6; count++) {
+        
+        System.out.println("\"Queen's\"" + "\"College\"");
+  
+
+  }
+
+}
+
+
+
+}
+
